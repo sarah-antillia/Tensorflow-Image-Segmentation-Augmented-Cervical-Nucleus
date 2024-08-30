@@ -78,7 +78,7 @@ As shown below, the tiled inferred masks look similar to the ground truth masks.
 <hr>
 <br>
 In this experiment, we used the simple UNet Model 
-<a href="./src/TensorflowUNet.py">TensorflowSlightlyFlexibleUNet</a> for this BCNB Segmentation Model.<br>
+<a href="./src/TensorflowUNet.py">TensorflowSlightlyFlexibleUNet</a> for this Cervical-Nucleus Segmentation Model.<br>
 As shown in <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>.
 you may try other Tensorflow UNet Models:<br>
 
