@@ -25,7 +25,7 @@ Experiment Strategies
  
 <b>2. Color Space Conversion:</b><br>
 We converted augmented training and test images from RGB to HSV color space. 
-This transformation aids in identifying blue cell nuclei regions, which appear green in HSV, 
+This transformation aids in identifying dark blue cell nuclei regions, which appear green in HSV, 
 potentially improving segmentation performance. 
 <br>
 <br>
