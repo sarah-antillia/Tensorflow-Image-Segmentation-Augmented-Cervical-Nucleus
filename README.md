@@ -357,7 +357,7 @@ patience      = 10
 </pre>
 
 <b>Epoch change inference callbacks</b><br>
-Enabled epoch_change_infer and epoch_changeinfer callbacks.<br>
+Enabled epoch_change_infer callback.<br>
 <pre>
 [train]
 epoch_change_infer       = True
@@ -367,8 +367,8 @@ epoch_changeinfer_dir    = "./epoch_changeinfer"
 num_infer_images         = 1
 </pre>
 
-By using these callbacks, on every epoch_change, the inference procedures can be called
- for an image in <b>mini_test</b> folder. These will help you confirm how the predicted mask changes 
+By using this callback, on every epoch_change, the inference procedure can be called
+ for an image in <b>mini_test</b> folder. This will help you confirm how the predicted mask changes 
  at each epoch during your training process.<br> <br> 
 
 <b>Epoch_change_inference output</b><br>
