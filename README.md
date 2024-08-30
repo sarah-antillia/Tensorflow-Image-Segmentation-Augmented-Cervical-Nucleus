@@ -125,8 +125,6 @@ You can download CNSeg dataset from the kaggle website:<br>
  please download the dataset from the google drive 
 <a href="https://drive.google.com/file/d/1Bv0MuqoBEJnWNxUz4gaAAYgNEIocsE9Q/view?usp=sharing">
 Cervical-Nucleus-ImageMask-Dataset.zip</a>
-<br>
-<br>
 , expand the downloaded ImageMaskDataset and put it under <b>./dataset</b> folder to be
 <pre>
 ./dataset
