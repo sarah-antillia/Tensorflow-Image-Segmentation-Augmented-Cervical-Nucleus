@@ -1,6 +1,6 @@
-<h2>Tensorflow-Image-Segmentation-Augmented-Cervical-Nucleus(2024/08/30)</h2>
+<h2>Tensorflow-Image-Segmentation-Augmented-Cervical-Nucleus (2024/08/30)</h2>
 
-This is the first experiment of Image Segmentation for CNSeg (Cervical Cell Nucleus Segmentation)
+This is the first experiment of Image Segmentation for CNSeg (Cervical Nucleus Segmentation)
  based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1Bv0MuqoBEJnWNxUz4gaAAYgNEIocsE9Q/view?usp=sharing">
