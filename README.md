@@ -47,7 +47,7 @@ potentially improving segmentation performance.
 
 <hr>
 <b>Actual Image Segmentation for Images of 512x512 pixels</b><br>
-As shown below, the tiled inferred masks look similar to the ground truth masks. <br>
+As shown below, the inferred masks look similar to the ground truth masks. <br>
 
 <table>
 <tr>
